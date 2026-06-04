@@ -5,3 +5,12 @@ __pycache__/
 .env
 *.zip
 .venv
+/courses/deeplearning.ai/torch/flower_data/
+/courses/deeplearning.ai/torch/mnist_images/
+/courses/deeplearning.ai/torch/corrupted_flower_data/
+*.pt
+*.pth
+*.ptc
+*.pkl
+*.h5
+*.onnx
